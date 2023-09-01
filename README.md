@@ -1,5 +1,5 @@
 # FUNBIO_Grupo2
-Trabajo realizado por el grupo 2 del horario B401 para Fundamentos de Biodiseño
+Trabajo realizado por el grupo 2 del horario B401 para Fundamentos de Biodiseño.
 
 ## Proyecto
 Crear un dispositivo ergonómico capaz de reconocer en poco tiempo patologías cardíacas basándose en los ruidos cardíacos. 
@@ -25,14 +25,14 @@ El dispositivo compara lo que escucha mediante un sensor de sonido y lo compara 
 - ### Caso (ejemplo)
 - Dispositivo adaptado a un adulto promedio capaz de reconocer patologías cardiacas a partir de auscultación .
 - ### Problemática
-Detección de patologías cardíacas en base a la auscultulación de los ruidos cardíacos
+Detección de patologías cardíacas en base a la auscultulación de los ruidos cardíacos.
 - ## Estado del arte
 | Equipos | Características | Imágenes |
 |------------|-----------------|-------------|
-| Fonendoscopio electrónico Fonodx | Aplicación móvil para la graficación, grabación y comparación de sonidos fonocardiográficos| ![imagen_Fonodx](https://cdn.discordapp.com/attachments/754876450049622172/1147011137775337472/image.png)|
-| Estetoscopio inteligente| Uso de dos principales algoritmos con machine learning los cuales usan un estetoscopio móvil el cual se conecta a un celular android para reconocer y clasificar los sonidos del pulmón con uno de los algoritmos mientras que el otro compara la información recibida con su base de datos para predecir la condición del paciente| ![imagen estetoscopio inteligente](https://www.bbvaopenmind.com/wp-content/uploads/2015/08/BBVA-OpenMind-estetoscopio-inteligente-MIT.ppal_-1-1.jpg)|
+| Fonendoscopio electrónico Fonodx | Aplicación móvil para la graficación, grabación y comparación de sonidos fonocardiográficos.| ![imagen_Fonodx](https://cdn.discordapp.com/attachments/754876450049622172/1147011137775337472/image.png)|
+| Estetoscopio inteligente| Uso de dos principales algoritmos con machine learning los cuales usan un estetoscopio móvil el cual se conecta a un celular android para reconocer y clasificar los sonidos del pulmón con uno de los algoritmos mientras que el otro compara la información recibida con su base de datos para predecir la condición del paciente.| ![imagen estetoscopio inteligente](https://www.bbvaopenmind.com/wp-content/uploads/2015/08/BBVA-OpenMind-estetoscopio-inteligente-MIT.ppal_-1-1.jpg)|
 | Audio Search Algorithm | Tecnología de búsqueda de audio, que se puede utilizar en ambientes ruidosos. Se generan "huellas" transformando las frecuencias de los audios y guardandolas en bases de datos que se reconocen mediante algoritmos de comparación. |![imagen04](https://cdn.discordapp.com/attachments/754876450049622172/1147013698037223525/image.png)|
-|Deep Neural Network DNN|Uso de machine learning para crear una red neuronal profunda que es entrenada alimentándola de datos para poder reconocer anormalidades que aparecen en exámenes al corazón de diferentes pacientes, equiparando la eficiencia de un electrocardiograma de 12 derivaciones|![imagen06](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-15432-4/MediaObjects/41467_2020_15432_Fig1_HTML.png?as=webp) |
+|Deep Neural Network DNN|Uso de machine learning para crear una red neuronal profunda que es entrenada alimentándola de datos para poder reconocer anormalidades que aparecen en exámenes al corazón de diferentes pacientes, equiparando la eficiencia de un electrocardiograma de 12 derivaciones.|![imagen06](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-15432-4/MediaObjects/41467_2020_15432_Fig1_HTML.png?as=webp) |
 - ## Bibliografía
 -  Avery Li-Chun Wang. Audio Search Algorithm https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf
 -  Barbuzano J. A Smart Stethoscope you can Connect to a Mobile Phone to Diagnose Lung Diseases. Open Mind BBVA. 2015. URL: [https://www.bbvaopenmind.com/en/technology/innovation/a-smart-stethoscope-connects-to-a-mobile-phone-to-diagnose-lung-diseases/](https://www.bbvaopenmind.com/en/technology/innovation/a-smart-stethoscope-connects-to-a-mobile-phone-to-diagnose-lung-diseases/)

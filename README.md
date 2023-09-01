@@ -18,7 +18,7 @@ El dispositivo compara lo que escucha mediante un sensor de sonido y lo compara 
 * Ciro Jesús Francisco Rodriguez Córdova (Modelador de 3D)
 * Carlos Andrés Ramos Guzmán (Electronica)
 * Axel Nicolas Jarama Salazar (Programador)
-* Andrea Morelia Valero Canaza (Sin definir rol)
+* Andrea Morelia Valero Canaza (Investiación y redacción)
 * Camila Antonella Muchaypiña Mujica (Diseñadora del prototipo)
 
 - ## Analizando el contexto

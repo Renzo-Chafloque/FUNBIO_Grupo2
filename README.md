@@ -21,5 +21,4 @@ Detección de patologías cardíacas en base a la auscultulación de los ruidos 
 | Audio Search Algorithm | Tecnologia de busqueda de audio, que se puede utilizar en ambientes ruidosos. Se generan "huellas" transformando las frecuencias de los audios y guardandolas en bases de datos que se reconocen mediante algoritmos de comparacion.  | https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf| 
 
 - ## Bibliografía
-- [Inteligent Estethoscope](https://www.bbvaopenmind.com/en/technology/innovation/a-smart-stethoscope-connects-to-a-mobile-phone-to-diagnose-lung-diseases/)
 - Javier Barbuzano. (2015). A Smart Stethoscope you can Connect to a Mobile Phone to Diagnose Lung Diseases. Open Mind BBVA [https://www.bbvaopenmind.com/en/technology/innovation/a-smart-stethoscope-connects-to-a-mobile-phone-to-diagnose-lung-diseases/](https://www.bbvaopenmind.com/en/technology/innovation/a-smart-stethoscope-connects-to-a-mobile-phone-to-diagnose-lung-diseases/)**

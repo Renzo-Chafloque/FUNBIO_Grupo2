@@ -1,6 +1,8 @@
 # FUNBIO_Grupo2
 Trabajo realizado por el grupo 2 del horario B401 para Fundamentos de Biodiseño
 
+## Proyecto
+
 ### Integrantes
 * Renzo Alejandro Chafloque Bezares (Gestor del repositorio y GitHub)
 * Ciro Jesús Francisco Rodriguez Córdova (Modelador de 3D)

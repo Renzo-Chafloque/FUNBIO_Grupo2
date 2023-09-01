@@ -23,6 +23,7 @@ El dispositivo compara lo que escucha mediante un sensor de sonido y lo compara 
 
 - ## Analizando el contexto
 - ### Caso (ejemplo)
+- Dispositivo adaptado a un adulto promedio capaz de reconocer patologías cardiacas a partir de auscultación .
 - ### Problemática
 Detección de patologías cardíacas en base a la auscultulación de los ruidos cardíacos
 - ## Estado del arte

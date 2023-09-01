@@ -17,7 +17,8 @@ Detección de patologías cardíacas en base a la auscultulación de los ruidos 
 | Equipos | Características | Imágenes |
 |------------|-----------------|-------------|
 | Fonendoscopio electrónico Fonodx | 
-| Estetoscopio inteligente| Uso de dos principales algoritmos con machine learning los cuales usan un estetoscópio móvil el cual se conecta a un celular android para reconocer y clasificar los sonidos del pulmón con uno de los algoritmos mientras que el otro compara la información recibida con su base de datos para predecir la condición del paciente|
+| Estetoscopio inteligente| Uso de dos principales algoritmos con machine learning los cuales usan un estetoscópio móvil el cual se conecta a un celular android para reconocer y clasificar los sonidos del pulmón con uno de los algoritmos mientras que el otro compara la información recibida con su base de datos para predecir la condición del paciente| ![imagen estetoscopio inteligente](https://www.bbvaopenmind.com/wp-content/uploads/2015/08/BBVA-OpenMind-estetoscopio-inteligente-MIT.ppal_-1-1.jpg)|
+
 - ## Bibliografía
 # hola
 

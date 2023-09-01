@@ -11,7 +11,7 @@ Trabajo realizado por el grupo 2 del horario B401 para Fundamentos de Biodiseño
 * Andrea Morelia Valero Canaza (Sin definir rol)
 * Camila Antonella Muchaypiña Mujica (Diseñadora del prototipo)
 
-## Analizando el contexto
+- ## Analizando el contexto
 
 - ### Problemática
 Detección de patologías cardíacas en base a la auscultulación de los ruidos cardíacos

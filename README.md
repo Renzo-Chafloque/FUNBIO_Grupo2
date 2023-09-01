@@ -14,6 +14,8 @@ Trabajo realizado por el grupo 2 del horario B401 para Fundamentos de Biodiseño
 - ### Conociendo la problemática
 
 - ## Estado del arte
+| Equipos | Características | Imágenes |
+|------------|-----------------|-------------|
 
 - ## Bibliografía
 

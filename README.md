@@ -2,12 +2,12 @@
 Trabajo realizado por el grupo 2 del horario B401 para Fundamentos de Biodiseño
 
 ### Integrantes
-* Renzo Alejandro Chafloque Bezares
-* Ciro Jesús Francisco Rodriguez Córdova 
-* Carlos Andrés Ramos Guzmán
-* Axel Nicolas Jarama Salazar
-* Andrea Morelia Valero Canaza
-* Camila Antonella Muchaypiña Mujica
+* Renzo Alejandro Chafloque Bezares (Gestor del repositorio y GitHub)
+* Ciro Jesús Francisco Rodriguez Córdova (Modelador de 3D)
+* Carlos Andrés Ramos Guzmán (Electronica)
+* Axel Nicolas Jarama Salazar (Programador)
+* Andrea Morelia Valero Canaza (Sin definir rol)
+* Camila Antonella Muchaypiña Mujica (Diseñadora del prototipo)
 
 ## Analizando el contexto
 

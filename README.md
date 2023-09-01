@@ -21,9 +21,8 @@ El dispositivo compara lo que escucha mediante un sensor de sonido y lo compara 
 * Andrea Morelia Valero Canaza (Investigación y redacción)
 * Camila Antonella Muchaypiña Mujica (Diseñadora del prototipo)
 
-- ## Analizando el contexto
-- ### Caso (ejemplo)
-- Dispositivo adaptado a un adulto promedio capaz de reconocer patologías cardiacas a partir de auscultación .
+- ## Analizando el tema
+
 - ### Problemática
 Detección de patologías cardíacas en base a la auscultulación de los ruidos cardíacos.
 - ## Estado del arte

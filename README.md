@@ -11,12 +11,13 @@ Trabajo realizado por el grupo 2 del horario B401 para Fundamentos de Biodiseño
 
 ## Analizando el contexto
 
-- ### Conociendo la problemática
-
+- ### Problemática
+Detección de patologías cardíacas en base a la auscultulación de los ruidos cardíacos
 - ## Estado del arte
 | Equipos | Características | Imágenes |
 |------------|-----------------|-------------|
-
+| Fonendoscopio electrónico Fonodx | 
+| Estetoscopio inteligente
 - ## Bibliografía
 # hola
 

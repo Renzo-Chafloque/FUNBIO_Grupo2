@@ -22,5 +22,3 @@ Detección de patologías cardíacas en base a la auscultulación de los ruidos 
 
 - ## Bibliografía
 - [Inteligent Estethoscope](https://www.bbvaopenmind.com/en/technology/innovation/a-smart-stethoscope-connects-to-a-mobile-phone-to-diagnose-lung-diseases/)
-# hola
-

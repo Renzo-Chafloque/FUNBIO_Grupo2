@@ -22,7 +22,7 @@ El dispositivo compara lo que escucha mediante un sensor de sonido y lo compara 
 * Camila Antonella Muchaypiña Mujica (Diseñadora del prototipo)
 
 - ## Analizando el tema
-- ### Prolemática
+- ### Problemática
 Deficiencia en la detección de problemas cardíacos que desembocan en el empeoramiento de la salud de los afectados.
 - ### Propuesta de solución
 Detección de patologías cardíacas en base a la auscultulación de los ruidos cardíacos.
@@ -34,7 +34,12 @@ Detección de patologías cardíacas en base a la auscultulación de los ruidos 
 | Audio Search Algorithm | Tecnología de búsqueda de audio, que se puede utilizar en ambientes ruidosos. Se generan "huellas" transformando las frecuencias de los audios y guardandolas en bases de datos que se reconocen mediante algoritmos de comparación. |![imagen04](https://cdn.discordapp.com/attachments/754876450049622172/1147013698037223525/image.png)|
 |Deep Neural Network DNN|Uso de machine learning para crear una red neuronal profunda que es entrenada alimentándola de datos para poder reconocer anormalidades que aparecen en exámenes al corazón de diferentes pacientes, equiparando la eficiencia de un electrocardiograma de 12 derivaciones.|![imagen06](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-15432-4/MediaObjects/41467_2020_15432_Fig1_HTML.png?as=webp) |
 - ## Lista de requerimientos
-| Funcionales | No funcionales |
+| Requerimientos funcionales | Requerimientos no funcionales |
+|-----------------------------|--------------------------------|
+| Crear una "huella dactilar" para los corazones de los pacientes | Fácil de usar |
+| Monitoreo permanente | Ergonómico |
+| Notificar cuando se detecten anomalías | Portable para el uso continuo |
+| Tener una base de datos para el historial del paciente | Inalámbrico
 
 - ## Bibliografía
 -  Avery Li-Chun Wang. Audio Search Algorithm https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf

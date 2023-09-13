@@ -44,6 +44,9 @@ Aplicación para dispositivos móviles capaz de reconocer canciones simplemente 
 
 ![Shazam](https://i.blogs.es/75c220/shazam-android/1366_2000.jpg)
 
+- #### MIT - App Estetoscopio
+  Se le acoplo un celular a un estetoscopio comun para que evalue los sonidos 
+
 - ### Patentes
 - The 3M™ Littmann® CORE Digital Stethoscope: WO2022123397A1
 Es un estetoscopio el cual contiene un módulo de procesamiento de señales, un sensor de sonidos cardíacos y un módulo de comunicación inalámbrica. El dispositivo transmite los datos de ondas y sonidos cardíacos a un dispositivo para mostrar la información recogida. Con esto, el dispositivo logra enseñar los datos recogidos en tiempo real como si hubieran sido obtenidos por un electrocardiograma o un fonocardiograma. Además cuenta con una app el cual ofrece una IA que analiza en tiempo real los datos obtenidos mientras realiza una detección automática de patrones.

@@ -43,7 +43,8 @@ Detección de patologías cardíacas en base a la auscultulación de los ruidos 
 | Crear una "huella dactilar" para los corazones de los pacientes | Fácil de usar |
 | Monitoreo permanente | Ergonómico |
 | Notificar cuando se detecten anomalías | Portable para el uso continuo |
-| Tener una base de datos para el historial del paciente | Inalámbrico
+| Almacenar la información obtenida | Inalámbrico |
+| Adhesión al cuerpo del paciente | Barato |
 
 - ## Bibliografía
 -  Avery Li-Chun Wang. Audio Search Algorithm https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf

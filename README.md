@@ -42,6 +42,7 @@ Es un estetoscopio el cual contiene un módulo de procesamiento de señales, un 
 - #### Shazam
 Aplicación para dispositivos móviles capaz de reconocer canciones simplemente escuchando una breve muestra de la música. Los usuarios pueden activar la aplicación y hacer que escuche una canción que esté sonando en su entorno, ya sea en un lugar silencioso o con ruido, y la aplicación intentará identificarla.
 
+![Shazam](https://i.blogs.es/75c220/shazam-android/1366_2000.jpg)
 
 - ### Patentes
 - The 3M™ Littmann® CORE Digital Stethoscope: WO2022123397A1

@@ -38,7 +38,7 @@ Deficiencia en la detección de problemas cardíacos que desembocan en el empeor
 - #### Shazam
 Aplicación para dispositivos móviles capaz de reconocer canciones simplemente escuchando una breve muestra de la música. Los usuarios pueden activar la aplicación y hacer que escuche una canción que esté sonando en su entorno, ya sea en un lugar silencioso o con ruido, y la aplicación intentará identificarla.
 
-- #### Descripción breve:
+
 - ### Patentes
 - Litman
 - the smart sthetoscope : Se le añade a un estetoscopio comun un dispositivo capaz de leer su señal y mostrarla al especialista medico para que este la pueda estudiar. 

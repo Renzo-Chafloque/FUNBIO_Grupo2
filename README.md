@@ -35,7 +35,8 @@ Detección de patologías cardíacas en base a la auscultulación de los ruidos 
 |Deep Neural Network DNN|Uso de machine learning para crear una red neuronal profunda que es entrenada alimentándola de datos para poder reconocer anormalidades que aparecen en exámenes al corazón de diferentes pacientes, equiparando la eficiencia de un electrocardiograma de 12 derivaciones.|![imagen06](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-15432-4/MediaObjects/41467_2020_15432_Fig1_HTML.png?as=webp) |
 - ## Estado del arte 
 - ### Productos Comerciales
-- #### Shazam 
+- #### Shazam
+-  Aplicación para dispositivos móviles capaz de reconocer canciones simplemente escuchando una breve muestra de la música. Los usuarios pueden activar la aplicación y hacer que escuche una canción que esté sonando en su entorno, ya sea en un lugar silencioso o con ruido, y la aplicación intentará identificarla.
 - #### Detalles del producto:
 - #### Descripción breve:
 - ### Patentes

@@ -24,8 +24,7 @@ El dispositivo compara lo que escucha mediante un sensor de sonido y lo compara 
 - ## Analisis 
 - ### Problemática
 Deficiencia en la detección de problemas cardíacos que desembocan en el empeoramiento de la salud de los afectados.
-- ### Propuesta de solución
-Detección de patologías cardíacas en base a la auscultulación de los ruidos cardíacos.
+
 - ## Estado del arte
 | Equipos | Características | Imágenes |
 |------------|-----------------|-------------|

@@ -34,7 +34,7 @@ Deficiencia en la detección de problemas cardíacos que desembocan en el empeor
 
 - ## Estado del arte 
 - ### Productos Comerciales
-- #### Litman
+- #### The 3M™ Littmann® CORE Digital Stethoscope
 Es un estetoscopio el cual contiene un módulo de procesamiento de señales, un sensor de sonidos cardíacos y un módulo de comunicación inalámbrica. El dispositivo transmite los datos de ondas y sonidos cardíacos a un dispositivo para mostrar la información recogida. Con esto, el dispositivo logra enseñar los datos recogidos en tiempo real como si hubieran sido obtenidos por un electrocardiograma o un fonocardiograma. Además cuenta con una app el cual ofrece una IA que analiza en tiempo real los datos obtenidos mientras realiza una detección automática de patrones.
 
 ![Littman](https://m.media-amazon.com/images/I/610d1RfgHDL._AC_UF894,1000_QL80_.jpg)

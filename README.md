@@ -45,7 +45,7 @@ Aplicación para dispositivos móviles capaz de reconocer canciones simplemente 
 ![Shazam](https://i.blogs.es/75c220/shazam-android/1366_2000.jpg)
 
 - #### MIT - App Estetoscopio
-  Se le acoplo un celular a un estetoscopio comun para que evalue los sonidos 
+  Se le acoplo un celular a un estetoscopio comun para que evalue los sonidos
 
 - ### Patentes
 - The 3M™ Littmann® CORE Digital Stethoscope: WO2022123397A1

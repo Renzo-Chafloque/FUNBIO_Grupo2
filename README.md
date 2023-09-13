@@ -49,7 +49,7 @@ Es un estetoscopio el cual contiene un módulo de procesamiento de señales, un 
 
 
 - the smart sthetoscope  (WO2016206704A1): Se le añade a un estetoscopio comun un dispositivo capaz de leer su señal y mostrarla al especialista medico para que este la pueda estudiar.
-![smart sthetoscope](https://cdn.discordapp.com/attachments/754876450049622172/1151377243109609552/image.png)
+
 - Smart Telemedicine equipment (KR20140194385A): Dispositivo inteligente comprendido en un estetoscopio inteligente capaz de comprender y producir datos acerca de la hipofonesis (disminución de ruido torácico), a su vez, se encuentra conectada a una aplicación para su análisis.
 - ## Lista de requerimientos
 

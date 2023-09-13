@@ -16,7 +16,7 @@ El dispositivo compara lo que escucha mediante un sensor de sonido y lo compara 
 ### Integrantes
 * Renzo Alejandro Chafloque Bezares (Gestor del repositorio y GitHub)
 * Ciro Jesús Francisco Rodriguez Córdova (Modelador de 3D)
-* Carlos Andrés Ramos Guzmán (Electronica)
+* Carlos Andrés Ramos Guzmán (Electrónica)
 * Axel Nicolas Jarama Salazar (Programador)
 * Andrea Morelia Valero Canaza (Investigación y redacción)
 * Camila Antonella Muchaypiña Mujica (Diseñadora del prototipo)

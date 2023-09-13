@@ -40,9 +40,10 @@ Deficiencia en la detección de problemas cardíacos que desembocan en el empeor
 - #### Descripción breve:
 - ### Patentes
 - Litman
-- the smart sthetoscope
+- the smart sthetoscope : Se le añade a un estetoscopio comun un dispositivo capaz de leer su señal y mostrarla al especialista medico para que este la pueda estudiar. 
 - ## Lista de requerimientos
-- 
+
+
 
 
 | Requerimientos funcionales | Requerimientos no funcionales |

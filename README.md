@@ -38,8 +38,11 @@ Detección de patologías cardíacas en base a la auscultulación de los ruidos 
 - #### Shazam 
 - #### Detalles del producto:
 - #### Descripción breve:
+- ### Patentes
+- Litman
+- the smart sthetoscope
 - ## Lista de requerimientos
-- ### Patentes 
+- 
 
 
 | Requerimientos funcionales | Requerimientos no funcionales |

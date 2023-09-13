@@ -43,7 +43,7 @@ Aplicación para dispositivos móviles capaz de reconocer canciones simplemente 
 - ### Patentes
 - The 3M™ Littmann® CORE Digital Stethoscope: WO2022123397A1
 Es un estetoscopio el cual contiene un módulo de procesamiento de señales, un sensor de sonidos cardíacos y un módulo de comunicación inalámbrica. El dispositivo transmite los datos de ondas y sonidos cardíacos a un dispositivo para mostrar la información recogida. Con esto, el dispositivo logra enseñar los datos recogidos en tiempo real como si hubieran sido obtenidos por un electrocardiograma o un fonocardiograma. Además cuenta con una app el cual ofrece una IA que analiza en tiempo real los datos obtenidos mientras realiza una detección automática de patrones.
-![imagenlitman](https://worldwide.espacenet.com/3.2/rest-services/images/documents/WO/2022123397/A1/formats/png/pages/10?EPO-Trace-Id=d3e578-ye5tw7-XXX-000009)
+![littman](https://worldwide.espacenet.com/3.2/rest-services/images/documents/WO/2022123397/A1/formats/png/pages/10?EPO-Trace-Id=d3e578-ye5tw7-XXX-000009)
 
 - the smart sthetoscope  (WO2016206704A1): Se le añade a un estetoscopio comun un dispositivo capaz de leer su señal y mostrarla al especialista medico para que este la pueda estudiar.
 ![smart sthetoscope](https://cdn.discordapp.com/attachments/754876450049622172/1151377243109609552/image.png)

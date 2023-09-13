@@ -36,7 +36,7 @@ Deficiencia en la detección de problemas cardíacos que desembocan en el empeor
 - ### Productos Comerciales
 - #### Litman 
 - #### Shazam
--  Aplicación para dispositivos móviles capaz de reconocer canciones simplemente escuchando una breve muestra de la música. Los usuarios pueden activar la aplicación y hacer que escuche una canción que esté sonando en su entorno, ya sea en un lugar silencioso o con ruido, y la aplicación intentará identificarla.
+Aplicación para dispositivos móviles capaz de reconocer canciones simplemente escuchando una breve muestra de la música. Los usuarios pueden activar la aplicación y hacer que escuche una canción que esté sonando en su entorno, ya sea en un lugar silencioso o con ruido, y la aplicación intentará identificarla.
 - #### Detalles del producto:
 - #### Descripción breve:
 - ### Patentes

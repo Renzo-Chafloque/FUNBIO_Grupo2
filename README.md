@@ -70,7 +70,7 @@ Es un estetoscopio el cual contiene un módulo de procesamiento de señales, un 
 
 - ### Propuesta de solución
 Dispositivo que se utilice para auscultar pacientes capaz de comparar lo que escucha con una base de datos y de esta manera identificar patologías cardiacas . 
-Este dispositivo encontraria el diagnostico sin importar la interferencia de ruido ambiental. 
+Este dispositivo encontrará el diagnostico sin importar la interferencia de ruido ambiental. 
 
 - ## Bibliografía
 -  Avery Li-Chun Wang. Audio Search Algorithm https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf

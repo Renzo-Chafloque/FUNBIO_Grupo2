@@ -77,6 +77,8 @@ Este dispositivo encontrará el diagnostico sin importar la interferencia de rui
 
 ![Esquema de funciones](https://cdn.discordapp.com/attachments/754876450049622172/1153911372250353714/image.png)
 ![Matriz morfológica](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/2246ce6d-696b-45ce-bf9d-36d4684211f6)
+![Conclusiones](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/f7807b66-64c0-4ebf-8463-250fca8e11cd)
+
 
 
 

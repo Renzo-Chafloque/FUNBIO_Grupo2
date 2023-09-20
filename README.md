@@ -73,6 +73,7 @@ Dispositivo que se utilice para auscultar pacientes capaz de comparar lo que esc
 Este dispositivo encontrará el diagnostico sin importar la interferencia de ruido ambiental. 
 
 ![Caja negra](https://cdn.discordapp.com/attachments/754876450049622172/1153910115955658802/image.png)
+![Esquema de funciones](https://cdn.discordapp.com/attachments/754876450049622172/1153911372250353714/image.png)
 
 
 - ## Bibliografía

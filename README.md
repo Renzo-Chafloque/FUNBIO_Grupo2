@@ -72,6 +72,9 @@ Es un estetoscopio el cual contiene un módulo de procesamiento de señales, un 
 Dispositivo que se utilice para auscultar pacientes capaz de comparar lo que escucha con una base de datos y de esta manera identificar patologías cardiacas . 
 Este dispositivo encontrará el diagnostico sin importar la interferencia de ruido ambiental. 
 
+![Caja negra](https://cdn.discordapp.com/attachments/754876450049622172/1153910115955658802/image.png)
+
+
 - ## Bibliografía
 -  Avery Li-Chun Wang. Audio Search Algorithm https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf
 -  Barbuzano J. A Smart Stethoscope you can Connect to a Mobile Phone to Diagnose Lung Diseases. Open Mind BBVA. 2015. URL: [https://www.bbvaopenmind.com/en/technology/innovation/a-smart-stethoscope-connects-to-a-mobile-phone-to-diagnose-lung-diseases/](https://www.bbvaopenmind.com/en/technology/innovation/a-smart-stethoscope-connects-to-a-mobile-phone-to-diagnose-lung-diseases/)

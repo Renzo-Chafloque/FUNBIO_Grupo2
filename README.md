@@ -73,6 +73,8 @@ Dispositivo que se utilice para auscultar pacientes capaz de comparar lo que esc
 Este dispositivo encontrará el diagnostico sin importar la interferencia de ruido ambiental. 
 
 ![Caja negra](https://cdn.discordapp.com/attachments/754876450049622172/1153910115955658802/image.png)
+![Caja negra - Esquema de funciones](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/9c570c1f-8b85-44c4-b78b-511716966165)
+
 ![Esquema de funciones](https://cdn.discordapp.com/attachments/754876450049622172/1153911372250353714/image.png)
 ![Matriz morfológica](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/2246ce6d-696b-45ce-bf9d-36d4684211f6)
 

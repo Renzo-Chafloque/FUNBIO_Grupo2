@@ -21,7 +21,7 @@ El dispositivo compara lo que escucha mediante un sensor de sonido y lo compara 
 * Andrea Morelia Valero Canaza (Investigación y redacción)
 * Camila Antonella Muchaypiña Mujica (Diseñadora del prototipo)
 
-- ## Analisis 
+- ## Análisis 
 - ### Problemática
 Deficiencia en la detección de problemas cardíacos que desembocan en el empeoramiento de la salud de los afectados.
 

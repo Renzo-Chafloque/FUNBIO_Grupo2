@@ -92,6 +92,7 @@ Este dispositivo encontrará el diagnostico sin importar la interferencia de rui
 
 ![Boceto 3](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/4be44a94-042f-4fd8-84e3-313632376551)
 
+![TABLA ECONOMICA](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/937df934-f7b4-4939-8105-7e1c861327c8)
 
 
 - ## Bibliografía

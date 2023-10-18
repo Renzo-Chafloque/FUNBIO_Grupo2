@@ -108,6 +108,18 @@ Este dispositivo encontrará el diagnostico sin importar la interferencia de rui
 ### https://sketchfab.com/3d-models/entregable-5-e858c156c9ff40208f248848fea408b7
 
 - ## Bibliografía
+- World-heart-federation.org. Disponible en: https://world-heart-federation.org/wp-content/uploads/2017/05/spanish-press-release.pdf
+- Sanabria-Montañez C, Cabrejos Polo J, Olortegui Yzu AR, San Juan Lezama H, Lama More MA, Villamonte Blas R. Patrones de costos de atención a
+pacientes con enfermedades isquémicas del corazón en el Instituto Nacional Cardiovascular, 2019. An Fac Med (Lima, Peru: 1990). 2022
+;83(2):104–11.  http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1025-55832022000200104 
+- World-heart-federation.org.. https://world-heart-federation.org/wp-content/uploads/2017/05/spanish-press-release.pdf
+- Enfermedades cardiovasculares. Who.int. https://www.who.int/es/health-topics/cardiovascular-diseases
+- Chambergo-Michilot, D., Velit-Rios, B., & Cueva-Parra, A. (2020). Prevalencia de enfermedades cardiovasculares en el Hospital Nacional Dos de
+Mayo de Perú. Revista mexicana de angiología, 48(3), 84–89. https://doi.org/10.24875/rma.20000012
+- Vigo-Ramos J. Muerte súbita y emergencias cardiovasculares: problemática actual. Rev Peru Med Exp Salud Publica. 2008 [citado el 1 de
+septiembre de 2023];25(2):233–6. Disponible en: http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1726-46342008000200014
+- Guerrero MH. UNIVERSIDAD RICARDO PALMA [Internet]. Edu.pe. . Disponible en:
+https://repositorio.urp.edu.pe/bitstream/handle/20.500.14138/1830/SL%c3%b3pezVictorio.pdf?sequence=1&isAllowed=y
 -  Avery Li-Chun Wang. Audio Search Algorithm https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf
 -  Barbuzano J. A Smart Stethoscope you can Connect to a Mobile Phone to Diagnose Lung Diseases. Open Mind BBVA. 2015. URL: [https://www.bbvaopenmind.com/en/technology/innovation/a-smart-stethoscope-connects-to-a-mobile-phone-to-diagnose-lung-diseases/](https://www.bbvaopenmind.com/en/technology/innovation/a-smart-stethoscope-connects-to-a-mobile-phone-to-diagnose-lung-diseases/)
 - D. B. Chamberlain, R. Kodgule and R. R. Fletcher, "A mobile platform for automated screening of asthma and chronic obstructive pulmonary disease," 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Orlando, FL, USA, 2016, pp. 5192-5195, doi: 10.1109/EMBC.2016.7591897.

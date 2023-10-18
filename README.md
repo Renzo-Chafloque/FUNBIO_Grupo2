@@ -98,7 +98,11 @@ Este dispositivo encontrará el diagnostico sin importar la interferencia de rui
 
 ![image2](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/6d321162-c7ab-4ad5-a111-383c04f52467)
 
+## Presentación en OnShape
+![OnShape](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/f18fc6b5-3ece-4fb1-92e7-ba6e3dfe90d7)
 
+## Presentación en Sketchfab
+![Sketchfab](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/13a88922-0c86-4166-b476-f8fb5fa6f512)
 
 
 - ## Bibliografía

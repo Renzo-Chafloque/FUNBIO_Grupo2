@@ -14,7 +14,9 @@ Podemos mejorar la precisión del dispositivo derivando a 4 bases de datos, cada
 El dispositivo compara lo que escucha mediante un sensor de sonido y lo compara en la base de datos, reconociendo si las frecuencias corresponden a sonidos patológicos o saludables.
 
 
-- ## Análisis 
+- ## Análisis
+[Contexto de la problemática](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/files/13031313/Green.Orange.Blue.Creative.Healthcare.Facility.Presentation.pdf)
+
 - ### Problemática
 Deficiencia en la detección de problemas cardíacos que desembocan en el empeoramiento de la salud de los afectados.
 

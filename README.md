@@ -92,11 +92,11 @@ Este dispositivo encontrará el diagnostico sin importar la interferencia de rui
 
 ![Boceto 3](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/4be44a94-042f-4fd8-84e3-313632376551)
 
-![image](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/cb2cc2f4-7e61-42a6-a19b-a0303403aaca)
 
-![image1](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/3049a53a-8981-4359-9ce8-24c376a8683e)
+![Matriz_evaluación_técnica](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/2a242f1b-7a4e-4355-98ac-9785b64ae54e)
+![Matriz_evaluación_económica](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/6c34e991-c6d6-4878-88e4-e0add3c78573)
+![Proyecto_óptimo](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/5dea3e07-bf5d-49ab-99ff-ff87ac9c63c6)
 
-![image2](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/6d321162-c7ab-4ad5-a111-383c04f52467)
 ## Esquema electrónico
 ![Esquema_electrónico](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/2d615815-671a-46eb-8c34-7e8eda7d7069)
 

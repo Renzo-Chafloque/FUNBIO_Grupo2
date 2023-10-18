@@ -15,6 +15,11 @@ El dispositivo compara lo que escucha mediante un sensor de sonido y lo compara 
 
 
 - ## Análisis
+![contexto1](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/b0ef2d5f-01c6-420e-9da5-01a9ccf8b63b)
+![contexto2](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/9a597962-7199-4f98-b301-1542e5944528)
+![contexto3](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/d85ff84d-8453-40ba-bdbd-6eaf7a19d478)
+![contexto4](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/2064fb92-e5a7-4c5a-b2c5-d26820188d18)
+![contexto5](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/046da19a-49ac-40e7-9361-57676e00e108)
 
 
 - ### Problemática

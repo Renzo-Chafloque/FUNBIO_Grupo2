@@ -1,5 +1,6 @@
 # FUNBIO_Grupo2
-Trabajo realizado por el grupo 2 del horario B401 para Fundamentos de Biodiseño.
+![Introducción](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/b3adea1a-0cb6-4d95-a49e-5f50b8332582)
+
 
 ## Proyecto
 Crear un dispositivo ergonómico capaz de reconocer en poco tiempo patologías cardíacas basándose en los ruidos cardíacos. 

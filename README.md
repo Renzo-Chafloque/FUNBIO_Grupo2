@@ -14,14 +14,6 @@ Podemos mejorar la precisión del dispositivo derivando a 4 bases de datos, cada
 El dispositivo compara lo que escucha mediante un sensor de sonido y lo compara en la base de datos, reconociendo si las frecuencias corresponden a sonidos patológicos o saludables.
 
 
-### Integrantes
-* Renzo Alejandro Chafloque Bezares (Gestor del repositorio y GitHub)
-* Ciro Jesús Francisco Rodriguez Córdova (Modelador de 3D)
-* Carlos Andrés Ramos Guzmán (Electrónica)
-* Axel Nicolas Jarama Salazar (Programador)
-* Andrea Morelia Valero Canaza (Investigación y redacción)
-* Camila Antonella Muchaypiña Mujica (Diseñadora del prototipo)
-
 - ## Análisis 
 - ### Problemática
 Deficiencia en la detección de problemas cardíacos que desembocan en el empeoramiento de la salud de los afectados.

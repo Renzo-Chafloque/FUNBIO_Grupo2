@@ -97,6 +97,8 @@ Este dispositivo encontrará el diagnostico sin importar la interferencia de rui
 ![image1](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/3049a53a-8981-4359-9ce8-24c376a8683e)
 
 ![image2](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/6d321162-c7ab-4ad5-a111-383c04f52467)
+## Esquema electrónico
+![Esquema_electrónico](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/2d615815-671a-46eb-8c34-7e8eda7d7069)
 
 ## Presentación en OnShape
 ![OnShape](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/f18fc6b5-3ece-4fb1-92e7-ba6e3dfe90d7)

@@ -32,6 +32,8 @@ Deficiencia en la detección de problemas cardíacos que desembocan en el empeor
 | Estetoscopio inteligente| Uso de dos principales algoritmos con machine learning los cuales usan un estetoscopio móvil el cual se conecta a un celular android para reconocer y clasificar los sonidos del pulmón con uno de los algoritmos mientras que el otro compara la información recibida con su base de datos para predecir la condición del paciente.| ![imagen estetoscopio inteligente](https://www.bbvaopenmind.com/wp-content/uploads/2015/08/BBVA-OpenMind-estetoscopio-inteligente-MIT.ppal_-1-1.jpg)|
 | Audio Search Algorithm | Tecnología de búsqueda de audio, que se puede utilizar en ambientes ruidosos. Se generan "huellas" transformando las frecuencias de los audios y guardandolas en bases de datos que se reconocen mediante algoritmos de comparación. |![imagen04](https://cdn.discordapp.com/attachments/754876450049622172/1147013698037223525/image.png)|
 
+![introducción2](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/8f18f125-933b-4f59-bae7-9d464c5aa3a3)
+
 - ## Estado del arte 
 - ### Productos Comerciales
 - #### The 3M™ Littmann® CORE Digital Stethoscope
@@ -55,6 +57,9 @@ Es un estetoscopio el cual contiene un módulo de procesamiento de señales, un 
 - The smart sthetoscope  (WO2016206704A1): Se le añade a un estetoscopio comun un dispositivo capaz de leer su señal y mostrarla al especialista medico para que este la pueda estudiar.
 
 - Smart Telemedicine equipment (KR20140194385A): Dispositivo inteligente comprendido en un estetoscopio inteligente capaz de comprender y producir datos acerca de la hipofonesis (disminución de ruido torácico), a su vez, se encuentra conectada a una aplicación para su análisis.
+
+![introducción3](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/b8f8f0b1-0c7a-429d-9455-ff4960b0964d)
+
 - ## Lista de requerimientos
 
 
@@ -84,6 +89,9 @@ Este dispositivo encontrará el diagnostico sin importar la interferencia de rui
 
 ![Conclusiones](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/f7807b66-64c0-4ebf-8463-250fca8e11cd)
 
+![introducción4](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/3a132815-5cde-4e2d-ac32-2f6704448ea7)
+
+
 ![Boceto 1](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/f7b021aa-4864-424e-924c-a64bc4134fc9)
 
 
@@ -96,6 +104,8 @@ Este dispositivo encontrará el diagnostico sin importar la interferencia de rui
 ![Matriz_evaluación_técnica](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/2a242f1b-7a4e-4355-98ac-9785b64ae54e)
 ![Matriz_evaluación_económica](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/6c34e991-c6d6-4878-88e4-e0add3c78573)
 ![Proyecto_óptimo](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/5dea3e07-bf5d-49ab-99ff-ff87ac9c63c6)
+
+![introducción5](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/cb1addce-73b8-4343-82ef-2e6636b9b681)
 
 ## Esquema electrónico
 ![Esquema_electrónico](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/2d615815-671a-46eb-8c34-7e8eda7d7069)

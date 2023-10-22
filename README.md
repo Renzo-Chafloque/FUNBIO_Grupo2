@@ -71,7 +71,7 @@ Es un estetoscopio el cual contiene un módulo de procesamiento de señales, un 
 | Monitorear continuamente | Ergonómico |
 | Notificar cuando se detecten anomalías | Portable para el uso continuo |
 | Almacenar la información obtenida | Inalámbrico |
-| Adhesión al cuerpo del paciente | Barato |
+| Adherir al cuerpo del paciente | Barato |
 
 - ### Propuesta de solución
 Dispositivo que se utilice para auscultar pacientes capaz de comparar lo que escucha con una base de datos y de esta manera identificar patologías cardiacas . 

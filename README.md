@@ -58,7 +58,7 @@ Es un estetoscopio el cual contiene un módulo de procesamiento de señales, un 
 
 - Smart Telemedicine equipment (KR20140194385A): Dispositivo inteligente comprendido en un estetoscopio inteligente capaz de comprender y producir datos acerca de la hipofonesis (disminución de ruido torácico), a su vez, se encuentra conectada a una aplicación para su análisis.
 
-![introducción3](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/b8f8f0b1-0c7a-429d-9455-ff4960b0964d)
+
 
 - ## Lista de requerimientos
 
@@ -76,6 +76,9 @@ Es un estetoscopio el cual contiene un módulo de procesamiento de señales, un 
 - ### Propuesta de solución
 Dispositivo que se utilice para auscultar pacientes capaz de comparar lo que escucha con una base de datos y de esta manera identificar patologías cardiacas . 
 Este dispositivo encontrará el diagnostico sin importar la interferencia de ruido ambiental. 
+
+![introducción3](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/b8f8f0b1-0c7a-429d-9455-ff4960b0964d)
+
 
 ![Caja negra](https://cdn.discordapp.com/attachments/754876450049622172/1153910115955658802/image.png)
 

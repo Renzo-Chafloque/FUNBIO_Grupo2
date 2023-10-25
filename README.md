@@ -120,6 +120,10 @@ Este dispositivo encontrará el diagnostico sin importar la interferencia de rui
 ![Sketchfab](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/13a88922-0c86-4166-b476-f8fb5fa6f512)
 ### https://sketchfab.com/3d-models/entregable-5-e858c156c9ff40208f248848fea408b7
 
+## Presentación del hito 1:
+[Documento General - FunBio Grupo 02.pptx](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/files/13167464/Documento.General.-.FunBio.Grupo.02.pptx)
+
+
 - ## Bibliografía
 - World-heart-federation.org. https://world-heart-federation.org/wp-content/uploads/2017/05/spanish-press-release.pdf
 - Sanabria-Montañez C, Cabrejos Polo J, Olortegui Yzu AR, San Juan Lezama H, Lama More MA, Villamonte Blas R. Patrones de costos de atención a

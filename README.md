@@ -86,9 +86,9 @@ Este dispositivo encontrará el diagnostico sin importar la interferencia de rui
 
 ![Esquema de funciones](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/06f893c9-6282-40be-9b22-5bf38cef684a)
 
-![Matriz morfológica](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/2246ce6d-696b-45ce-bf9d-36d4684211f6)
+![Matriz_morfológica](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/eb520460-b3c0-4af9-9f88-491a073422e7)
 
-![Tabla de valoración](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/9d71ad04-f501-4eff-bf24-053842bc94ea)
+![Tabla de valoración](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/8b398b5a-de21-47ca-8739-001961f3abef)
 
 ![Conclusiones](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/f7807b66-64c0-4ebf-8463-250fca8e11cd)
 

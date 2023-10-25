@@ -123,7 +123,7 @@ Este dispositivo encontrará el diagnostico sin importar la interferencia de rui
 ### https://sketchfab.com/3d-models/entregable-5-e858c156c9ff40208f248848fea408b7
 
 ## Presentación del hito 1:
-[Presentación - Hito 1 (1).pptx](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/files/13170843/Presentacion.-.Hito.1.1.pptx)
+[Presentación - Hito 1 (2).pptx](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/files/13170926/Presentacion.-.Hito.1.2.pptx)
 
 
 

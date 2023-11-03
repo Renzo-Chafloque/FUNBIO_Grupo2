@@ -7,3 +7,5 @@
 ![imagen aplicación](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/cf576534-f159-4b10-a43c-682f459c6809)
 
 [Diagrama de aplicación.pdf](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/files/13247000/Diagrama.de.aplicacion.pdf)
+
+![Hardware](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/334b2adb-fe1d-40e1-9e43-af05de16a398)

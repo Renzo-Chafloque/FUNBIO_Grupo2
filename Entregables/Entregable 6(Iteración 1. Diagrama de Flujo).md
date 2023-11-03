@@ -1,3 +1,4 @@
+![Introducción 6](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/8984b467-5674-4b4f-a692-705cc2e6598f)
 
 
 ![imagen circuito](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/a5cc597e-8f98-4bbf-9f5b-994a5c6605ce)

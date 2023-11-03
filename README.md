@@ -136,6 +136,16 @@ Este dispositivo encontrará el diagnostico sin importar la interferencia de rui
 
 ![Hardware](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/334b2adb-fe1d-40e1-9e43-af05de16a398)
 
+![Edge impulse](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/309df0fd-b7fc-47d5-9f53-48f0d335d6b6)
+
+![Características](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/f416a5ae-d611-4539-94eb-1e4c2a4d3234)
+
+![Uso características](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/539eb086-dd4e-4add-b515-b19c5199faef)
+
+![Precisión](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/dbffbccb-bafd-4b58-b37d-4b0d14402488)
+
+![Librería](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/47be7b7a-2075-4a62-b7ec-3a534602ad27)
+
 - ## Bibliografía
 - World-heart-federation.org. https://world-heart-federation.org/wp-content/uploads/2017/05/spanish-press-release.pdf
 - Sanabria-Montañez C, Cabrejos Polo J, Olortegui Yzu AR, San Juan Lezama H, Lama More MA, Villamonte Blas R. Patrones de costos de atención a

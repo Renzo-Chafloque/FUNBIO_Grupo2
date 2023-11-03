@@ -125,6 +125,7 @@ Este dispositivo encontrará el diagnostico sin importar la interferencia de rui
 ## Presentación del hito 1:
 [Presentación - Hito 1 (2).pptx](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/files/13170926/Presentacion.-.Hito.1.2.pptx)
 
+![Diagrama_esquemático](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/13ed00fb-3aa3-4695-9614-fb6245de5afe)
 
 
 - ## Bibliografía

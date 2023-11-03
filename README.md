@@ -125,8 +125,16 @@ Este dispositivo encontrará el diagnostico sin importar la interferencia de rui
 ## Presentación del hito 1:
 [Presentación - Hito 1 (2).pptx](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/files/13170926/Presentacion.-.Hito.1.2.pptx)
 
-![Diagrama_esquemático](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/13ed00fb-3aa3-4695-9614-fb6245de5afe)
 
+![imagen circuito](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/a5cc597e-8f98-4bbf-9f5b-994a5c6605ce)
+
+[Diagrama del circuito.pdf](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/files/13246999/Diagrama.del.circuito.pdf)
+
+![imagen aplicación](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/cf576534-f159-4b10-a43c-682f459c6809)
+
+[Diagrama de aplicación.pdf](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/files/13247000/Diagrama.de.aplicacion.pdf)
+
+![Hardware](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/334b2adb-fe1d-40e1-9e43-af05de16a398)
 
 - ## Bibliografía
 - World-heart-federation.org. https://world-heart-federation.org/wp-content/uploads/2017/05/spanish-press-release.pdf

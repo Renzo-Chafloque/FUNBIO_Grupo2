@@ -20,3 +20,5 @@
 ![Precisión](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/dbffbccb-bafd-4b58-b37d-4b0d14402488)
 
 ![Librería](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/47be7b7a-2075-4a62-b7ec-3a534602ad27)
+
+![Electrónico](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/c94da5b7-44d7-4b5c-8251-7f27473554d8)

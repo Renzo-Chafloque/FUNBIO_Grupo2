@@ -2,3 +2,4 @@
 
 ![Limitaciones](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/7473e8d0-57d0-4b52-b7a0-98fd1639b48e)
 
+# Pruebas de la funcionalidad:

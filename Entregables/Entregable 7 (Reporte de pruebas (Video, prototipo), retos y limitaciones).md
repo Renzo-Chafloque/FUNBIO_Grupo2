@@ -19,3 +19,8 @@
 
 ![Test](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/df0459bb-e6a0-42e9-884a-7612ecc664d6)
 ### Una vez generado el código, se hace un test con otros audios de válvulas cardíacas, y como vemos en el resultado, acierta en un 89%. 
+
+
+
+https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/54504a19-603e-4f02-8baf-6e57e6a95476
+

@@ -175,6 +175,16 @@ Este dispositivo encontrará el diagnostico sin importar la interferencia de rui
 
 https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/54504a19-603e-4f02-8baf-6e57e6a95476
 
+![introducción_8](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/1f36a9a6-0c82-4cb2-a4cc-94323dc3867f)
+
+![software](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/d2d63882-dff9-45fb-8231-2943c2d0e8cb)
+
+![preguntas](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/4e52cfe9-7672-4f6c-ba50-02e52c1d79ec)
+
+![hardware](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/a4980398-a09d-4e02-bec8-94ce1e8449da)
+
+![tabla hardware](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/45a92d17-2fd8-4015-8b7d-5f0d1820f2eb)
+
 - ## Bibliografía
 - World-heart-federation.org. https://world-heart-federation.org/wp-content/uploads/2017/05/spanish-press-release.pdf
 - Sanabria-Montañez C, Cabrejos Polo J, Olortegui Yzu AR, San Juan Lezama H, Lama More MA, Villamonte Blas R. Patrones de costos de atención a

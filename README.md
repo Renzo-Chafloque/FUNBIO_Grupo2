@@ -181,7 +181,7 @@ https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/54504a19-603e-
 
 ![preguntas](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/4e52cfe9-7672-4f6c-ba50-02e52c1d79ec)
 
-![hardware](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/b41b525d-f68c-45ae-8ef3-03ff8e8c3e05)
+![hardware](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/e183e592-1c40-4302-b95a-d55fb2cf0244)
 
 ![tabla hardware](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/45a92d17-2fd8-4015-8b7d-5f0d1820f2eb)
 

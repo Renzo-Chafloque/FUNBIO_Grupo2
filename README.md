@@ -175,7 +175,7 @@ Este dispositivo encontrará el diagnostico sin importar la interferencia de rui
 
 https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/54504a19-603e-4f02-8baf-6e57e6a95476
 
-![introducción_8](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/1f36a9a6-0c82-4cb2-a4cc-94323dc3867f)
+![introducción 8](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/54f2a29e-7014-493f-a170-cbac13133c90)
 
 ![software](https://github.com/Renzo-Chafloque/FUNBIO_Grupo2/assets/143019492/d2d63882-dff9-45fb-8231-2943c2d0e8cb)
 

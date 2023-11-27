@@ -34,7 +34,7 @@ Es un estetoscopio el cual contiene un módulo de procesamiento de señales, un 
 | Requerimientos funcionales | Requerimientos no funcionales |
 |-----------------------------|--------------------------------|
 | Crear una "huella digital" para los corazones de los pacientes | Fácil de usar |
-| Monitorear continuamente | Ergonómico |
+| Monitorear rápidamente | Ergonómico |
 | Notificar cuando se detecten anomalías | Portable para el uso continuo |
 | Almacenar la información obtenida | Inalámbrico |
 | Adherir al cuerpo del paciente | Barato |
